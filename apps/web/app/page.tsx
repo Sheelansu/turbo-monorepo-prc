@@ -33,9 +33,9 @@ export default function Home() {
         />
         <ol>
           <li>
-            Get started by editing <code>apps/web/app/page.tsx</code>
+            Howdy world! <code>apps/web/app/page.tsx</code>
           </li>
-          <li>Save and see your changes instantly.</li>
+          <li>Whereis everybody ?</li>
         </ol>
 
         <div className={styles.ctas}>
